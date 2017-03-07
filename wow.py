@@ -1,4 +1,4 @@
-import random, time
+import random
 
 filename = ""
 x = 0
